@@ -6,7 +6,7 @@
 [![Mobile Responsive](https://img.shields.io/badge/Mobile-Responsive-green)]()
 
 > **Sprint 01 Challenge** - Gesix Solutions GeoAI Internship  
-> A bold, neo-brutalist portfolio showcasing technical expertise and creative projects
+> A bold, precise portfolio showcasing technical expertise and creative projects
 
 [Live Demo](https://personalportfolio-six-ebon.vercel.app/) | [Process Documentation](PROCESS.md)
 
@@ -17,9 +17,7 @@
 - [Overview](#overview)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
-- [Design Philosophy](#design-philosophy)
 - [Performance](#performance)
 - [Deployment](#deployment)
 - [License](#license)
@@ -28,7 +26,7 @@
 
 ## 🎯 Overview<a id="overview"></a>
 
-A **single-page application (SPA)** portfolio built for the Gesix Solutions internship Sprint 01 challenge. This portfolio breaks away from conventional designs with a **neo-brutalist aesthetic** featuring bold typography, high contrast colors, geometric elements, and smooth animations.
+A **single-page application (SPA)** portfolio built for the Gesix Solutions internship Sprint 01 challenge. This portfolio breaks away from conventional designs with an **aesthetic** featuring bold typography, high contrast colors, geometric elements, and smooth animations.
 
 **Key Highlights:**
 - 🎨 Unique neo-brutalist design system
@@ -39,7 +37,7 @@ A **single-page application (SPA)** portfolio built for the Gesix Solutions inte
 
 ---
 
-## ✨ Features
+## ✨ Features<a id="features"></a>
 
 ### Core Sections
 
@@ -78,10 +76,6 @@ Each project card includes:
 2. **Movie Recommendation Engine** - Genre-based filtering with intuitive UI
 3. **Personal Portfolio** - This website (meta!)
 
-#### 📜 Certifications
-- Operating System Basics (Cisco Networking Academy)
-- AI Primer Certification (Infosys Springboard)
-
 #### 📬 Contact Section
 - Email: ankithganesh23@gmail.com
 - LinkedIn: [ankith-ganesh](https://linkedin.com/in/ankith-ganesh)
@@ -90,7 +84,7 @@ Each project card includes:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack<a id="tech-stack"></a>
 
 ### Frontend
 - **Framework:** React 18.3.1
@@ -112,49 +106,7 @@ Each project card includes:
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js 18+ 
-- npm 9+
-- Git
-
-### Installation
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/Ankith025/Personal-Portfolio.git
-cd Personal-Portfolio
-```
-
-2. **Install dependencies**
-```bash
-npm install
-```
-
-3. **Start development server**
-```bash
-npm run dev
-```
-
-4. **Open browser**
-```
-http://localhost:5173
-```
-
-### Build for Production
-
-```bash
-# Create optimized production build
-npm run build
-
-# Preview production build locally
-npm run preview
-```
-
----
-
-## 📁 Project Structure
+## 📁 Project Structure<a id="project-structure"></a>
 
 ```
 portfolio/
@@ -179,84 +131,20 @@ portfolio/
 
 ---
 
-## 🎨 Design Philosophy
-
-### Neo-Brutalism Aesthetic
-
-**Core Principles:**
-1. **Bold Typography**: Archivo Black for impact, IBM Plex Mono for code
-2. **High Contrast**: Pure blacks (#000), bright whites (#FFF), electric accents
-3. **Geometric Shapes**: Sharp edges, no rounded corners, rectangular grids
-4. **Dramatic Shadows**: 8px offset shadows for depth
-5. **Raw Honesty**: No gradients, no blur, what you see is what you get
-
-**Color Palette:**
-- Primary: `#FF3366` (Electric Pink)
-- Secondary: `#FFD700` (Gold)
-- Accent: `#00FF88` (Neon Green)
-- Dark: `#0A0A0A` (Near Black)
-- Light: `#FFFFFF` (Pure White)
-
-### Animation Strategy
-- **Entrance Animations**: Staggered fade-in with slide effects
-- **Hover Interactions**: Transform shifts, color changes
-- **Performance**: GPU-accelerated, 60fps maintained
-- **Accessibility**: Respects `prefers-reduced-motion`
-
----
-
-## ⚡ Performance
+## ⚡ Performance<a id="performance"></a>
 
 ### Lighthouse Scores
 
 | Metric | Score | Target |
 |--------|-------|--------|
-| Performance | 98 | 90+ |
-| Accessibility | 100 | 90+ |
+| Performance | 99 | 90+ |
+| Accessibility | 97 | 90+ |
 | Best Practices | 100 | 90+ |
 | SEO | 100 | 90+ |
 
-### Optimization Techniques
-
-1. **Critical CSS Inline**: First paint optimized
-2. **Font Loading**: Preconnect + font-display swap
-3. **Image Optimization**: SVG icons, lazy loading ready
-4. **Code Splitting**: Vite automatic chunking
-5. **Minification**: Production build compression
-6. **Caching**: Service worker ready (future)
-
-### Load Times
-- **FCP (First Contentful Paint)**: < 1.2s
-- **LCP (Largest Contentful Paint)**: < 2.5s
-- **TTI (Time to Interactive)**: < 3.0s
-- **CLS (Cumulative Layout Shift)**: < 0.1
-
 ---
 
-## 📱 Responsive Design
-
-### Breakpoints
-- **Mobile**: 320px - 480px
-- **Tablet**: 481px - 768px
-- **Desktop**: 769px - 1920px+
-
-### Mobile Optimizations
-- Touch-friendly button sizes (min 44x44px)
-- Simplified navigation (logo-only on small screens)
-- Stacked layouts (grid → single column)
-- Readable font sizes (min 16px body)
-- No horizontal scroll
-
-### Testing Matrix
-- ✅ iPhone SE (375x667)
-- ✅ iPhone 12 (390x844)
-- ✅ iPad (768x1024)
-- ✅ Desktop 1080p (1920x1080)
-- ✅ Desktop 4K (3840x2160)
-
----
-
-## 🌐 Deployment
+## 🌐 Deployment<a id="deployment"></a>
 
 ### Vercel (Recommended)
 
@@ -279,36 +167,11 @@ git push origin main
 - Update DNS records
 - Automatic SSL provisioning
 
-### Alternative: Netlify
-
-```bash
-# Build command
-npm run build
-
-# Publish directory
-dist
-```
-
-### Alternative: GitHub Pages
-
-```bash
-# Install gh-pages
-npm install --save-dev gh-pages
-
-# Add to package.json
-"scripts": {
-  "deploy": "gh-pages -d dist"
-}
-
-# Deploy
-npm run deploy
-```
-
 ---
 
-## 🧪 Testing
+## 🧪 Testing<a id="testing"></a>
 
-### Manual Testing Checklist
+### Testing Checklist
 - [ ] All links work (GitHub, LinkedIn, Email)
 - [ ] No console errors or warnings
 - [ ] Smooth animations (no janking)
@@ -316,18 +179,9 @@ npm run deploy
 - [ ] Keyboard navigation works
 - [ ] Screen reader compatible
 
-### Automated Testing
-```bash
-# Run Lighthouse (Chrome DevTools)
-# Performance, Accessibility, SEO, Best Practices
-
-# Check bundle size
-npm run build -- --mode analyze
-```
-
 ---
 
-## 📄 License
+## 📄 License<a id="license"></a>
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -365,7 +219,5 @@ CS Engineering Student | Gesix GeoAI Intern
 <div align="center">
 
 **⭐ Star this repo if you found it helpful!**
-
-Made with ❤️ and ⚡ by Ankith Ganesh
 
 </div>
