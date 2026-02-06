@@ -1,6 +1,6 @@
 # 🚀 Ankith Ganesh - Personal Portfolio
 
-[![Lighthouse Score](https://img.shields.io/badge/Lighthouse-99%2B-success)](Lighthousereportviewer.pdf)
+[![Lighthouse Score](https://img.shields.io/badge/Lighthouse-99%2B-success)](https://github.com/Ankith025/Personal-Portfolio/blob/main/Lighthouse%20Report%20Viewer.pdf)
 [![React](https://img.shields.io/badge/React-18.3.1-blue)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-6.0.1-purple)](https://vitejs.dev/)
 [![Mobile Responsive](https://img.shields.io/badge/Mobile-Responsive-green)]()
