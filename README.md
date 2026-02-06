@@ -14,7 +14,7 @@
 
 ## 📋 Table of Contents
 
-- [Overview](https://github.com/Ankith025/Personal-Portfolio/blob/main/README.md#-overview)
+- [Overview](#overview)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
@@ -26,7 +26,7 @@
 
 ---
 
-## 🎯 Overview
+## 🎯 Overview<a id="overview"></a>
 
 A **single-page application (SPA)** portfolio built for the Gesix Solutions internship Sprint 01 challenge. This portfolio breaks away from conventional designs with a **neo-brutalist aesthetic** featuring bold typography, high contrast colors, geometric elements, and smooth animations.
 
