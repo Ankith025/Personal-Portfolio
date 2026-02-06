@@ -13,7 +13,7 @@ function App() {
       status: "In Development"
     },
     {
-      title: "MOVIE RECOMMENDATION ENGINE",
+      title: "MOVIE OVERVIEW & RECOMMENDATION",
       type: "Mini Project",
       description: "Genre-based recommendation system with intuitive UI, leveraging recommendation logic to suggest similar films based on user preferences.",
       tech: ["Python", "React", "API Integration"],
