@@ -8,7 +8,7 @@
 > **Sprint 01 Challenge** - Gesix Solutions GeoAI Internship  
 > A bold, neo-brutalist portfolio showcasing technical expertise and creative projects
 
-[Live Demo](#) | [Process Documentation](PROCESS.md)
+[Live Demo](https://personalportfolio-six-ebon.vercel.app/) | [Process Documentation](PROCESS.md)
 
 ---
 
