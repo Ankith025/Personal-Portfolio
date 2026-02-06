@@ -14,7 +14,7 @@
 
 ## 📋 Table of Contents
 
-- [Overview](##overview)
+- [Overview](https://github.com/Ankith025/Personal-Portfolio/blob/main/README.md#-overview)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
