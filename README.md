@@ -14,7 +14,7 @@
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
+- [Overview](##overview)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
