@@ -74,7 +74,6 @@ Each project card includes:
 **Featured Projects:**
 1. **AI Enhanced Micro ECG** - ML-powered cardiac analysis system
 2. **Movie Recommendation Engine** - Genre-based filtering with intuitive UI
-3. **Personal Portfolio** - This website (meta!)
 
 #### 📬 Contact Section
 - Email: ankithganesh23@gmail.com
