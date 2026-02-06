@@ -196,11 +196,6 @@ Gesix Solutions - GeoAI Internship Program (Sprint 01)
 - [Vite](https://vitejs.dev/) - Build Tool
 - [Google Fonts](https://fonts.google.com/) - Typography
 
-**Resources:**  
-- [MDN Web Docs](https://developer.mozilla.org/) - Web Standards
-- [Web.dev](https://web.dev/) - Performance Best Practices
-- [WCAG Guidelines](https://www.w3.org/WAI/WCAG21/quickref/) - Accessibility
-
 ---
 
 ## 📞 Contact
