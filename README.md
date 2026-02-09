@@ -212,6 +212,6 @@ CS Engineering Student | Gesix GeoAI Intern
 
 <div align="center">
 
-**⭐ Star this repo if you found it helpful!**
+**⭐ Star this repo if you find it helpful!**
 
 </div>
