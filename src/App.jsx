@@ -45,10 +45,10 @@ function App() {
       {/* HERO */}
       <section id="hero" className="hero">
         <h1 className="hero-title">Ankith Ganesh</h1>
-        <p className="hero-role">Gesix GeoAI Intern</p>
+        <p className="hero-role">Computer Science & Engineering UG</p>
         <p className="hero-description">
-          Building intelligent systems at the intersection of AI, Machine Learning, and Web Development.
-          Focused on calm, scalable engineering and real-world problem solving.
+       Aspiring AI Engineer seeking an internship to apply technical skills,gain industry experience and
+contribute to innovative projects
         </p>
 
         <div className="hero-cta">
